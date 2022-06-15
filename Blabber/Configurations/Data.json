@@ -1,0 +1,21 @@
+{
+    "food": [
+        "almond", "bamboo", "banana", "barley", "burger", "butter", "capers", "carrot", "casaba", "cashew", "caviar", "celery", "cereal", "cheese", "cherry", "chives", "citron", "citrus", "cooker", "daikon", "damson", "endive", "fennel", "fruits", "garlic", "ginger", "girkin", "grapes", "hotdog", "jicama", "kebabs", "kiwano", "lentil", "lichee", "lychee", "marrow", "melons", "muesli", "muffin", "nachos", "nettle", "noodle", "nougat", "olives", "onions", "orange", "oyster", "papaya", "pastry", "peanut", "pawpaw", "peanut", "pepper", "pignut", "pippin", "potato", "prawns", "quince", "rabbit", "radish", "raisin", "rocket", "russet", "salads", "salmon", "samosa", "shrimp", "squash", "steaks", "tomato", "turkey", "turnip", "turtle", "wakame", "walnut", "wasabi"
+    ],
+    
+    "sports": [
+        "aikido", "basset", "belote", "boxing", "casino", "diving", "hockey", "karate", "nascar", "racing", "riding", "rowing", "skiing", "soccer", "squash", "tennis"
+    ],
+    
+    "household": [
+        "peeler", "grater", "opener", "slicer", "lounge", "weeder", "blinds", "bucket", "carpet", "chairs", "drapes", "hammer", "heater", "linens", "pencil", "phones", "plants", "plates", "pliers", "saucer", "settee", "shades", "sheets", "shirts", "spoons", "tables", "timers", "towels", "vacuum", "washer"
+    ],
+    
+    "animals": [
+        "dugong", "walrus", "spider", "monkey", "turtle", "caiman", "hoopoe", "bulbul", "trogon", "cuckoo", "motmot", "wombat", "numbat", "budgie", "parrot", "alpaca", "condor", "gibbon", "salmon", "nereis", "gerbil", "beaver", "rabbit", "oriole", "falcon", "serval", "bobcat", "cougar", "jaguar", "avocet", "darter", "petrel", "pigeon", "osprey", "puffin", "turaco", "toucan", "barbet", "canary"
+    ],
+    
+    "places": [
+        "mumbai", "madrid", "malaga", "venice", "london", "oxford", "jaipur", "nagoya", "sydney", "moscow", "geneva", "zurich", "exeter", "berlin", "vienna", "prague", "bogota", "manaus", "dublin", "warsaw", "lisbon", "lahore", "puebla", "austin", "angola", "belize", "bhutan", "brazil", "brunei", "canada", "cyprus", "france", "gambia", "greece", "guinea", "guyana", "israel", "jordan", "kosovo", "kuwait", "latvia", "malawi", "mexico", "monaco", "norway", "panama", "poland", "russia", "rwanda", "serbia", "sweden", "taiwan", "turkey", "tuvalu", "uganda", "zambia"
+    ]
+}
